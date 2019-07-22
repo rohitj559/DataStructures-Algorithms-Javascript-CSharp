@@ -11,3 +11,4 @@ Access: O(1)
 Search: O(N)
 Insert: Dependends on position of insertion. Insertion at the end - O(1). Insertion at the beginning - O(N).
 Ordered
+Apart from insert, push and pop almost all the javascript functions on arrays fall under O(N).
