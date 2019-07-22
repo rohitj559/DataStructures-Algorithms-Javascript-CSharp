@@ -1,0 +1,13 @@
+Objects: 
+
+Access: O(1)
+Search: O(N)
+Insert: O(1)
+Unordered
+
+Arrays:
+
+Access: O(1)
+Search: O(N)
+Insert: Dependends on position of insertion. Insertion at the end - O(1). Insertion at the beginning - O(N).
+Ordered
