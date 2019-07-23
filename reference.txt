@@ -17,5 +17,5 @@ Problem Solving Approach:
 1. Understand the problem - Restate the problem, Check for inputs, What are the outputs, interrelate between i/p and o/p
 2. Look for concrete examples - implement simple functions, come up with different inputs, do the same with complex fumctions
 3. Break down the problem - break down the logic interms of pseudo code
-4. Solve/Simplify - FInd the core difficulty, Temperorily ignore this difficulty, write a simplified problem, incorporate the difficulty back in
-5. Look back and Refactor
+4. Solve/Simplify - Find the core difficulty, Temperorily ignore this difficulty, write a simplified problem, incorporate the difficulty back in
+5. Look back and Refactor - check the result, derive result differently, use the method/result on some other problem, imprrove the performance
