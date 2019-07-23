@@ -15,7 +15,7 @@ Apart from insert, push and pop almost all the javascript functions on arrays fa
 
 Problem Solving Approach:
 1. Understand the problem - Restate the problem, Check for inputs, What are the outputs, interrelate between i/p and o/p
-2. Look for concrete examples - 
+2. Look for concrete examples - implement simple functions, come up with different inputs, do the same with complex fumctions
 3. Break down the problem
 4. Solve/Simplify
 5. Look back and Refactor
