@@ -12,3 +12,10 @@ Search: O(N)
 Insert: Dependends on position of insertion. Insertion at the end - O(1). Insertion at the beginning - O(N).
 Ordered
 Apart from insert, push and pop almost all the javascript functions on arrays fall under O(N).
+
+Problem Solving Approach:
+1. Understand the problem
+2. Look for concrete examples
+3. Break down the problem
+4. Solve/Simplify
+5. Look back and Refactor
